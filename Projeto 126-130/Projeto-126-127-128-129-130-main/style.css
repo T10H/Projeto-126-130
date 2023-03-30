@@ -1,0 +1,12 @@
+body {
+    background-size: cover;
+}
+.heading {
+    background-color: orange;
+    color: black;
+      font-size: 18px;
+      border-radius: 10px;
+}
+canvas {
+    margin-top: 100px;
+}
